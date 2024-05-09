@@ -3,9 +3,9 @@ In this EDA project I analyse and visualize the business required questions.
 
 Install Libraries:
 
- # !pip install numpy                          
- # !pip install pandas                        
- # !pip install seaborn
+ - !pip install numpy                          
+ - !pip install pandas                        
+ - !pip install seaborn
 
 
 # Steps involved before EDA:
