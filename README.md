@@ -23,8 +23,8 @@ In this EDA project I analyse and visualize the business required questions.
  -dframe.dropna(inplace = True)  : Drop null values.
  -dframe['Amount'] = dframe['Amount'].astype('int') : Changing datatype. 
 
- #Conclusion
+ # Conclusion
 
-### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, 
-### Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+##### Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, 
+##### Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
  
