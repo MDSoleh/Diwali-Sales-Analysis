@@ -1,3 +1,4 @@
+![diwalisales](https://github.com/MDSoleh/Diwali-Sales-Analysis/assets/99492800/65457d79-25ae-4139-9f37-02da12aed3b3)
 # Diwali-Sales-Analysis
 In this EDA project I analyse and visualize the business required questions.
 
