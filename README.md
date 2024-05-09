@@ -8,8 +8,11 @@ Install Libraries:
  # !pip install seaborn
 
 
- Steps involved before EDA:
- 1.Collect data:Here from a csv file 
+# Steps involved before EDA:
+ 1.Collect data:Here from a csv file.
+ 
  2.Reading csv file.
- 3.Data-cleaning
+ 
+ 3.Data-cleaning.
+ 
  4.Droppping null values/blank columnsor unrelated columns.
