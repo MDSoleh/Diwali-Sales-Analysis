@@ -10,8 +10,11 @@ IDE: Jupyter Notebook, PyCharm
 
 ## Key Responsibilities:
 Data Collection and Preprocessing
+
 Exploratory Data Analysis (EDA)
+
 Advanced Analysis
+
 Reporting and Visualization
 
 ## Install Libraries:
