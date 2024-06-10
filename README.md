@@ -4,8 +4,11 @@ In this EDA project I analyzed and visualized the business required questions.
 
 ## Tools & Technologies:
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
 Data Visualization Tools: Matplotlib, Seaborn
+
 IDE: Jupyter Notebook, PyCharm
 
 ## Key Responsibilities:
