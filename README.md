@@ -30,17 +30,13 @@ Reporting and Visualization
 ### 3.Data-cleaning.
  
 ### 4.Droppping null values/blank columnsor unrelated columns.
- -dframe.drop(['Status','unnamed1'],axis = 1 , inplace = True)  : drop the blank/unrelated columns.
- -pd.isnull(dframe).sum()  : Gives count of null values.
- -dframe.dropna(inplace = True)  : Drop null values.
- -dframe['Amount'] = dframe['Amount'].astype('int') : Changing datatype. 
- 
+  
  # Advanced Analysis
-* Performed segmentation analysis to identify key customer segments. *
-* Conducted time series analysis to understand sales trends over the Diwali period. *
+*Performed segmentation analysis to identify key customer segments.*
+*Conducted time series analysis to understand sales trends over the Diwali period.*
 
 # Reporting and Visualization
-* Summarized findings & Created visualizations to present key metrics and trends. *
+*Summarized findings & Created visualizations to present key metrics and trends.*
 
  # Conclusion
 
